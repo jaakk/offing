@@ -1,7 +1,7 @@
 offingWaveGenerator
 ======
 
-Offing wave surface heightmap generator implementation
+Offing wave surface heightmap ripple generator implementation
 
 ![offingWaveGenerator][1]
 
